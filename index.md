@@ -53,7 +53,11 @@ NO lol. We are criticizing the institutions that put people at risk of contracti
 We get a lot! Sorry!!!
 
 
-# ~~COVID MYTHS~~
+# \~COVID MYTHS\~
+
+## The UO is doing the best they can
+
+No they're not.
 
 ## Why do you care so much about covid? Are you going to make a page like this for the flu?
 
@@ -62,10 +66,6 @@ This question typically isn't asked in good faith, but the flu is in fact a seri
 ## The case fatality rate for people in x age range is low, so why should they have to suffer?
 
 While the mortality rate is lower in certain age groups, this does not mean young people are exempt from the consequences of covid or the responsibility to prevent its spread. First, there are many long-term health complications from covid such as lung and cardiac damage, which we still don't fully understand. Second, many young people are immunocomprimised or otherwise in at-risk groups. Lastly, spreading covid among younger people means spreading it throughout their entire community - at-risk family members, coworkers, and other community members - who are not in a lower-risk demographic.
-
-## The UO is doing the best they can
-
-No they're not.
 
 ## The mental health impacts of covid isolation outweigh the health risks of covid
 
