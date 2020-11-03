@@ -1,7 +1,8 @@
 @import "normalize";
 @import "fonts";
-@import "rouge-base16-dark.scss";
 @import "ccc.scss";
+@import "rouge-base16-dark.scss";
+
 
 body {
   padding:0px 0 20px 0px;
@@ -140,13 +141,7 @@ td {
   border-bottom:1px solid #434343;
 }
 
-hr {
-  border: 0;
-  outline: none;
-  height: 3px;
-  background: transparent url('../images/hr.gif') center center repeat-x;
-  margin: 0 0 20px;
-}
+
 
 dt {
   color:#F0E7D5;
