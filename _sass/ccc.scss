@@ -1,12 +1,10 @@
 .contactgrid {
 
 	display: grid;
-	grid-template-columns: 30% 70%
+	grid-template-columns: 30% 70%;
 
 	
 	a {
-
-		grid-area:link;
 		color: white;
     border: 1px solid #5d910b;
     background: linear-gradient(#ff57f4, #ff00f0);
