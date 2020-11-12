@@ -30,7 +30,9 @@ We will only delete comments if they have personally identifying information, co
 
 ## Will you ever tell anyone who submitted a story?
 
-**NO.** We provide a form that allows people to submit their stories in a way that keeps them anonymous, even from us, so it's *impossible* tell anyone who you are. In the case that we receive submissions from our DMs or other identifiable means, we will **never** tell anyone outside of the moderation team who those messages are from without their explicit consent. The very last thing we want is for someone to be doubly victimized for speaking up.
+**NO.** We provide a form that allows people to submit their stories in a way that keeps them anonymous, even from us, so it's *impossible* tell anyone who you are. In the case that we receive submissions from our DMs or other identifiable means, we will **never** tell anyone outside of the moderation team who those messages are from without their explicit consent. The very last thing we want is for someone to be doubly victimized for speaking up. 
+
+The only exception is messages from people who can reasonably be inferred to be speaking in an official capacity for some public-facing institution, which we treat as public comment. 
 
 ## Do you fact check posts?
 
