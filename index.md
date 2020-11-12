@@ -6,7 +6,7 @@ title: Covid Confessions
 
 # FAQ
 
-(last updated 11/2/2020)
+(last updated 11/12/2020)
 
 ## What about all the good things that people are doing?
 
@@ -23,6 +23,10 @@ So while we try to post all submissions and want to minimize the effect of our g
 ## Do you edit the posts?
 
 We try to post all submissions as faithfully to their original content as possible, and get permission to make edits for grammar and to preserve the anonymity of both the person making the submission and any people described in the story. When we make substantial edits to a post (eg. adding the full name of an organization give as an acronym in the submission) we will mark them with [brackets].
+
+## Do you delete comments?
+
+We will only delete comments if they have personally identifying information, contain slurs or derogatory language to a marginalized community, and we reserve discretion in removing comments that are overly-aggressive to the person who made the submission or other commenters. We don't have the resources to actively moderate our comments, but usually the people who follow our page do a good job of community moderation. We will never delete a comment just because it disagrees with someting in one of our posts.
 
 ## Will you ever tell anyone who submitted a story?
 
