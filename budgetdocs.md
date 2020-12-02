@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: min
 title: UO Budget Documents
 ---
 
@@ -14,7 +14,7 @@ Download each of these to the same directory:
 
 * [uo_internal_budgets_20-12-02_split.zip (74.8MB)](/assets/docs/budget/uo_internal_budgets_20-12-02_split.zip)
 * [uo_internal_budgets_20-12-02_split.z01 (94.4MB)](/assets/docs/budget/uo_internal_budgets_20-12-02_split.z01)
-* [uo_internal_budgets_20-12-02_split.zip (94.4MB)](/assets/docs/budget/uo_internal_budgets_20-12-02_split.z02)
+* [uo_internal_budgets_20-12-02_split.z02 (94.4MB)](/assets/docs/budget/uo_internal_budgets_20-12-02_split.z02)
 
 # Unzip
 
