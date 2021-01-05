@@ -22,7 +22,8 @@
 <body>
     <div id="header">
         <nav>
-            <li class="fork"><a href="https://forms.gle/up7zKqhrHPEF3PAS9">Submit your story</a></li>
+            <li class="fork"><a class="button" href="https://forms.gle/up7zKqhrHPEF3PAS9">Submit your story</a></li>
+            <span class="snapshot-button"><a href="https://forms.gle/uN2rgTW85QKAHDCS8">Submit Your Snapshot</a></span>
             {% if site.show_downloads %}
             <li class="downloads"><a href="{{ site.github.zip_url }}">ZIP</a></li>
             <li class="downloads"><a href="{{ site.github.tar_url }}">TAR</a></li>
@@ -32,6 +33,26 @@
     </div><!-- end header -->
     <div class="wrapper">
         <section>
+            
+            <div id="snapshot">
+                <hr class="top">
+                <a href="https://instagram.com/covid.campus"><img src="/assets/img/snapshot-logo-01.png" alt="Covid.Campus Snapshot Logo" </img> </a>
+                <p>
+                    We want to take a snapshot of life during Covid-19 from the many perspectives of the UO and Lane County community. </p>
+                    <p>Tell us about how Covid has impacted your life, or impacted you. </p>
+                    <p>Tell us your whole story, or just a single moment; something mundane you miss or some major alteration to your life.</p>
+                    <p>Make one submission or tell multiple stories. Your story can be related to school or work but doesn't need to be. You don't need a dramatic angle or a bone to pick -- all experiences are valid.</p>
+                    <p style="font-weight: 700;">Our only agenda is to capture as complete of a picture as we can.</p>
+
+
+
+                            <!-- <ul> -->
+                                <div class="snapshot-button">
+                <a class="snapshot-button" href="https://forms.gle/uN2rgTW85QKAHDCS8">Submit Your Snapshot</a></div>
+                            <!-- </ul> -->
+
+                <hr>
+            </div>
             <div id="title">
                 <!-- <h1>{{ site.title | default: site.github.repository_name }}</h1> -->
                 <a href="https://instagram.com/covid.campus"><img src="/assets/img/ccc_logo_transparent.svg" alt="Covid Campus Confessions logo" </img> </a> <p>{{ site.description | default: site.github.project_tagline }}</p>
